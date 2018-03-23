@@ -1,0 +1,52 @@
+,states,most_common,second_most,third_most
+35,AK  ,Barley Wine,Fruit Beer,Porter
+39,AL  ,Porter,Stout,Brown Ale
+48,AR  ,Stout,Wheat Ale,Brown Ale
+18,AZ  ,Porter,Imperial Stout,Mead
+0,CA  ,Sour/Wild Ale,Imperial Stout,Porter
+1,CO  ,Sour/Wild Ale,Imperial Stout,Spice/Herb/Vegetable
+30,CT  ,Sour/Wild Ale,Porter,Imperial Stout
+41,DC  ,Sour/Wild Ale,Wheat Ale,Porter
+38,DE  ,Spice/Herb/Vegetable,Fruit Beer,Stout
+8,FL  ,Imperial Stout,Berliner Weisse,Brown Ale
+20,GA  ,Imperial Stout,Sour/Wild Ale,Porter
+45,HI  ,Amber Ale,Golden Ale/Blond Ale,Brown Ale
+29,IA  ,Stout,Porter,Wheat Ale
+26,ID  ,Sour/Wild Ale,Porter,Stout
+7,IL  ,Imperial Stout,Sour/Wild Ale,Fruit Beer
+14,IN  ,Imperial Stout,Porter,Brown Ale
+36,KS  ,Porter,Wheat Ale,Stout
+23,KY  ,Imperial Stout,Brown Ale,Sour/Wild Ale
+42,LA  ,Sour/Wild Ale,Fruit Beer,Porter
+16,MA  ,Sour/Wild Ale,Imperial Stout,Porter
+21,MD  ,Sour/Wild Ale,Spice/Herb/Vegetable,Porter
+27,ME  ,Sour/Wild Ale,Brown Ale,Imperial Stout
+3,MI  ,Mead,Stout,Imperial Stout
+12,MN  ,Porter,Fruit Beer,Sour/Wild Ale
+17,MO  ,Imperial Stout,Sour/Wild Ale,Spice/Herb/Vegetable
+50,MS  ,Golden Ale/Blond Ale,Imperial Stout,Amber Ale
+28,MT  ,Porter,Amber Ale,Stout
+13,NC  ,Sour/Wild Ale,Porter,Stout
+49,ND  ,Mead,Porter,Brown Ale
+32,NE  ,Imperial Stout,Stout,Fruit Beer
+25,NH  ,Mead,Stout,Imperial Stout
+19,NJ  ,Porter,Imperial Stout,Spice/Herb/Vegetable
+33,NM  ,Amber Ale,Stout,Porter
+31,NV  ,Fruit Beer,Spice/Herb/Vegetable,Sour/Wild Ale
+6,NY  ,Sour/Wild Ale,Cider,Porter
+10,OH  ,Imperial Stout,Porter,Spice/Herb/Vegetable
+43,OK  ,Imperial Stout,Sour/Wild Ale,Wheat Ale
+5,OR  ,Sour/Wild Ale,Cider,Porter
+2,PA  ,Sour/Wild Ale,Porter,Imperial Stout
+46,RI  ,Porter,Imperial Stout,Sour/Wild Ale
+34,SC  ,Imperial Stout,Sour/Wild Ale,Porter
+47,SD  ,Spice/Herb/Vegetable,Brown Ale,Amber Ale
+24,TN  ,Stout,Sour/Wild Ale,Porter
+15,TX  ,Imperial Stout,Sour/Wild Ale,Porter
+37,UT  ,Amber Ale,Session IPA,Porter
+9,VA  ,Imperial Stout,Porter,Brown Ale
+22,VT  ,Cider,Sour/Wild Ale,Imperial Stout
+4,WA  ,Spice/Herb/Vegetable,Sour/Wild Ale,Porter
+11,WI  ,Fruit Beer,Porter,Spice/Herb/Vegetable
+44,WV  ,Mead,Stout,Golden Ale/Blond Ale
+40,WY  ,Porter,Amber Ale,Brown Ale
